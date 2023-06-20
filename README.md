@@ -7,7 +7,7 @@ Simple react native toggle using React Native. Package uses Native Base & Materi
 
 ## Installation
 
-1. Install Repo (or copy code/dependencies).
+1. Clone Repo (or copy code/dependencies).
 2. Run `NPM Install` or `Yarn Add` to install dependencies.
 
 ## Notes
