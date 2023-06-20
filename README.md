@@ -13,4 +13,4 @@ Simple react native toggle using React Native. Package uses Native Base & Materi
 ## Notes
 
 - Any alternative to Native Base *should* work, however I have not tested this. You should be able to test easily by editing [here](https://snack.expo.dev/@jamielife/rn-nb-darklight-toggle?platform=web).
-- Any icons should work as well, though matching shape and size will look best.
+- Any icons should work as well, though currenlt the outline is set to always remain visible while the "yellow" animation happens behind it. To have them fade in/out respectively you'd need to change `outputRange:[1, 1]` to `outputRange:[1, 0]`.
