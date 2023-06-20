@@ -2,7 +2,7 @@
 
 https://github.com/jamielife/react-native-toggle/assets/411922/9f6dec3f-1834-4745-9f02-03eaafcd60f1
 
-Simple react native toggle using React Native. Package uses Native Base & Material Icons, however any alterantive should work. 
+Simple react native toggle using React Native. Package uses Native Base & Material Icons, however any alternative should work.
 [See Snack Code](https://snack.expo.dev/@jamielife/rn-nb-darklight-toggle?platform=web). 
 
 ## Installation
